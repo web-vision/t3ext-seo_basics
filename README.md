@@ -61,3 +61,6 @@ Pull Requests are very welcome!
 * Thanks to b13 and its clients to sponsor the further development of this extension.
 * Thanks to the TYPO3 community for giving feedback on the extension.
 * Thanks to Jesus Christ who gave me the power and energy to live and therefore to write this extension.
+
+
+Forked to Support TYPO3 10 LTS

@@ -1,5 +1,5 @@
 {
-  "name": "b13/seo_basics",
+  "name": "web-vision/seo_basics",
   "type": "typo3-cms-extension",
   "description": "Basic SEO features for TYPO3",
   "homepage": "https://github.com/b13/t3ext-seo_basics",
@@ -9,7 +9,7 @@
     "issues": "https://github.com/b13/t3ext-seo_basics/issues"
   },
   "require": {
-    "typo3/cms-core": "^9.5.0"
+    "typo3/cms-core": "^9.5 || ^10.4"
   },
   "autoload": {
     "psr-4": {

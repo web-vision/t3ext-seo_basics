@@ -15,13 +15,11 @@ $EM_CONF[$_EXTKEY] = [
     'author_email' => 'benni@typo3.org',
     'constraints' => [
         'depends' => [
-            'typo3' => '>=9.5.0',
+            'typo3' => '9.5.1-10.4.99',
         ],
         'conflicts' => [
         ],
         'suggests' => [
-            'realurl' => '0.0.0-0.0.0',
-            'cooluri' => '0.0.0-0.0.0',
             'seo' => '>=9.5.0'
         ],
     ],
